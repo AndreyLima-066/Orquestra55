@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+public abstract class Instrumento {
 
-public class Instrumento {
+    public abstract void visitar();
+
+
 }
